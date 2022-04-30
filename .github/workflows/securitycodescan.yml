@@ -17,6 +17,10 @@ on:
   schedule:
     - cron: '24 13 * * 3'
 
+defaults:
+ run:
+  working-directory: ./TbUtil.CacheManager
+
 jobs:
   SCS:
     runs-on: windows-latest

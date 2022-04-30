@@ -1,6 +1,6 @@
 [![.NET](https://github.com/TrueBurn/tbutil-tb-cache-manager/actions/workflows/dotnet.yml/badge.svg)](https://github.com/TrueBurn/tbutil-tb-cache-manager/actions/workflows/dotnet.yml)
 [![CodeQL](https://github.com/TrueBurn/tbutil-tb-cache-manager/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/TrueBurn/tbutil-tb-cache-manager/actions/workflows/codeql-analysis.yml)
-[![SecurityCodeScan](https://github.com/TrueBurn/tbutil-tb-cache-manager/actions/workflows/securitycodescan.yml/badge.svg)](https://github.com/TrueBurn/tbutil-tb-cache-manager/actions/workflows/securitycodescan.yml)
+
 
 # TB Util Caching
 
